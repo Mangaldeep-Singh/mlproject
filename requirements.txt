@@ -1,0 +1,4 @@
+pandas
+numpy
+-e .
+#when calling requirements.txt -e . will automattically trigger setup.py
